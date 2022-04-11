@@ -114,7 +114,7 @@ It should like this:
 
 ![Image](Screen Shot 2022-04-10 at 8.00.06 PM.png)
 
-## Step 5:Setting an SSH Key
+## Step 5: Setting an SSH Key
 
 First, exit out of your account.
 
@@ -137,11 +137,11 @@ After that's done, run the following line on terminal
 
 Where user-name, account and path file are dependent on your own account.
 
-## Step 6 Optimizing Remote Running
+## Step 6: Optimizing Remote Running
 
 You can use a command such as 
 
-![image](Screen Shot 2022-04-10 at 8.28.13 PM.png)
+![image](Screen Shot 2022-04-10 at 8.36.33 PM.png)
 
 to run the file directly from the remote server,
 or you can add semicolons to run multiple commands on one line.
