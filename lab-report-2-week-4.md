@@ -14,7 +14,7 @@ so that it stays within the boundaries of the code. The Index
 is out of bounds by ending at -1, so we had to remove the extra lines
 and the end of the code, in order to solve the problem by reseting it to 0.
 
-[Test Case 1](https://github.com/anhongalk/Lab-Report-2/commit/8fa585e5a0919fb05a2eaaa994d13612bc39653d)
+[Test Case 1](https://github.com/anhongalk/Lab-Report-2/blob/main/test-file.md)
 
 ## Change 2 (2nd Change to Code)
 
@@ -30,7 +30,7 @@ is formatted correctly. The bug effectively forces there to
 not be enough allocated heap space, so by removing last line of code
 we solve the issue of allocated heap space.
 
-[Test Case 2](https://github.com/anhongalk/Lab-Report-2/commit/8a4db9f357186b5b390921ac336dcbe49e3a9156)
+[Test Case 2](https://github.com/anhongalk/Lab-Report-2/blob/main/test-file2.md)
 
 ## Change 3 (Third Change to Code)
 
@@ -45,4 +45,4 @@ you should go and change the file to the proper format, and we
 had to delete the system.out.println line, since it was printing out
 incorrect information.
 
-[Test Case 3](https://github.com/anhongalk/Lab-Report-2/commit/aeb9a23b9ce87873da2c048654815ddec6375e0c)
+[Test Case 3](https://github.com/anhongalk/Lab-Report-2/blob/main/test-file6.md)
