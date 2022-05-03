@@ -12,7 +12,9 @@ The image is out of bounds, so to resolve that
 you should go and check the file and reedit the bounds
 so that it stays within the boundaries of the code. The Index
 is out of bounds by ending at -1, so we had to remove the extra lines
-and the end of the code, in order to solve the problem by reseting it to 0.
+and the end of the code, in order to solve the problem by resetting it to 0.
+We added a for loop to make sure it that it never goes out of bounds to 
+negative as well, incrementing each time.
 
 [Test Case 1](https://github.com/anhongalk/Lab-Report-2/blob/main/test-file.md)
 
