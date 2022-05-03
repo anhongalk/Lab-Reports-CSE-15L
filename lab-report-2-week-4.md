@@ -1,6 +1,6 @@
 # Lab 3 
 
-##Change 1 (First Change to Code)
+## Change 1 (First Change to Code)
 
 ![Image](Screen Shot 2022-05-02 at 9.47.12 PM.png)
 
@@ -16,7 +16,7 @@ and the end of the code, in order to solve the problem by reseting it to 0.
 
 [Test Case 1](https://github.com/anhongalk/Lab-Report-2/commit/8fa585e5a0919fb05a2eaaa994d13612bc39653d)
 
-##Change 2 (2nd Change to Code)
+## Change 2 (2nd Change to Code)
 
 ![Image](Screen Shot 2022-05-02 at 9.49.54 PM.png)
 
@@ -32,7 +32,7 @@ we solve the issue of allocated heap space.
 
 [Test Case 2](https://github.com/anhongalk/Lab-Report-2/commit/8a4db9f357186b5b390921ac336dcbe49e3a9156)
 
-##Change 3 (Third Change to Code)
+## Change 3 (Third Change to Code)
 
 ![Image](Screen Shot 2022-05-02 at 9.44.27 PM.png)
 
