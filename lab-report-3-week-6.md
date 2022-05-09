@@ -12,7 +12,7 @@ using text editor, to ensure that it worked.
 
 My login was using this config file using the command ssh ieng6.
 
-##Git and Key generator
+## Git and Key generator
 
 ![Image](Screen Shot 2022-05-08 at 11.35.18 PM.png)
 
