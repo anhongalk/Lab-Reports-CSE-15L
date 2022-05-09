@@ -21,3 +21,11 @@ Public and private key are both located in the .ssh file.
 ![Image](Screen Shot 2022-05-08 at 11.40.52 PM.png)
 
 Here is where my key is stored in Github.
+
+![Image](Screen Shot 2022-05-08 at 11.50.23 PM.png)
+
+Comment has been added to the file!
+
+https://github.com/anhongalk/Lab-Report-2/blob/main/MarkdownParse.java
+
+The link to the file that has a commit pushed with a comment "new stuff!"
