@@ -14,17 +14,17 @@ Tutorial Steps:
 In order to install VS Code, go to the [installation
 webpage](https://code.visualstudio.com/download).
 
-![Image](Screen Shot 2022-04-10 at 3.18.07 PM.png)
+![Image](Fillers/Screen Shot 2022-04-10 at 3.18.07 PM.png)
 
 Once there, download a package that uses your
 current operating system.
 
-![Image](Screen Shot 2022-04-10 at 3.20.44 PM.png)
+![Image](Fillers/Screen Shot 2022-04-10 at 3.20.44 PM.png)
 
 After it's finished installing, open the 
 program.
 
-![Image](Screen Shot 2022-04-10 at 3.22.29 PM.png)
+![Image](Fillers/Screen Shot 2022-04-10 at 3.22.29 PM.png)
 
 (Since I the operating system I am using is
 IOS, it looks like this) and create a new
@@ -36,7 +36,7 @@ Go to
 [UCSD Account Lookup](https://sdacs.ucsd.edu/~icc/index.php)
 and search for your CSE 15L account.
 
-![Image](Screen Shot 2022-04-10 at 2.52.48 PM.png)
+![Image](Fillers/Screen Shot 2022-04-10 at 2.52.48 PM.png)
 
 After you find it, type 
 ssh cs15lsp22XXX@ieng6.ucsd.edu
@@ -59,7 +59,7 @@ It will then prompt your account password.
 
 After you type your password, it should look like:
 
-![Image](Screen Shot 2022-04-10 at 7.14.21 PM.png)
+![Image](Fillers/Screen Shot 2022-04-10 at 7.14.21 PM.png)
 
 ## Step 3: Trying some commands
 
@@ -67,15 +67,15 @@ We can write in the terminal some commands such as
 
 >ls
 
-![Image](Screen Shot 2022-04-10 at 7.20.27 PM.png)
+![Image](Fillers/Screen Shot 2022-04-10 at 7.20.27 PM.png)
 
 >ls -lat
 
-![Image](Screen Shot 2022-04-10 at 7.22.29 PM.png)
+![Image](Fillers/Screen Shot 2022-04-10 at 7.22.29 PM.png)
 
 >mkdir
 
-![Image](Screen Shot 2022-04-10 at 7.26.13 PM.png)
+![Image](Fillers/Screen Shot 2022-04-10 at 7.26.13 PM.png)
 
 ## Step 4: Moving Files with SCP
 
@@ -99,7 +99,7 @@ type
 
 which will prompt your password.
 
-![Image](Screen Shot 2022-04-10 at 8.02.02 PM.png)
+![Image](Fillers/Screen Shot 2022-04-10 at 8.02.02 PM.png)
 
 After you confirm the file is there, log in with the process in Step 2 of this tutorial(ssh command).
 
@@ -112,7 +112,7 @@ Then run the file WhereAmI.
 
 It should like this:
 
-![Image](Screen Shot 2022-04-10 at 8.00.06 PM.png)
+![Image](Fillers/Screen Shot 2022-04-10 at 8.00.06 PM.png)
 
 ## Step 5: Setting an SSH Key
 
@@ -126,7 +126,7 @@ DO NOT ADD A PASSPHASE
 
 It should look like this:
 
-![Image](Screen Shot 2022-04-10 at 8.08.07 PM.png)
+![Image](Fillers/Screen Shot 2022-04-10 at 8.08.07 PM.png)
 
 After you have generated a key, type the following
 log into your account with the ssh command,
@@ -141,7 +141,7 @@ Where user-name, account and path file are dependent on your own account.
 
 You can use a command such as 
 
-![image](Screen Shot 2022-04-10 at 8.36.33 PM.png)
+![image](Fillers/Screen Shot 2022-04-10 at 8.36.33 PM.png)
 
 to run the file directly from the remote server,
 or you can add semicolons to run multiple commands on one line.

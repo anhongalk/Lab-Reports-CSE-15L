@@ -2,11 +2,11 @@
 
 ## Change 1 (First Change to Code)
 
-![Image](Screen Shot 2022-05-02 at 9.47.12 PM.png)
+![Image](Fillers/Screen Shot 2022-05-02 at 9.47.12 PM.png)
 
 Which outputs:
 
-![Image](Screen Shot 2022-04-24 at 9.36.21 PM.png)
+![Image](Fillers/Screen Shot 2022-04-24 at 9.36.21 PM.png)
 
 The image is out of bounds, so to resolve that
 you should go and check the file and reedit the bounds
@@ -20,11 +20,11 @@ negative as well, incrementing each time.
 
 ## Change 2 (2nd Change to Code)
 
-![Image](Screen Shot 2022-05-02 at 9.49.54 PM.png)
+![Image](Fillers/Screen Shot 2022-05-02 at 9.49.54 PM.png)
 
 Which outputs:
 
-![Image](Screen Shot 2022-04-24 at 9.39.19 PM.png)
+![Image](Fillers/Screen Shot 2022-04-24 at 9.39.19 PM.png)
 
 Java Heap space was not large enough, so to edit the 
 file you should go and edit the link to make sure it 
@@ -36,11 +36,11 @@ we solve the issue of allocated heap space.
 
 ## Change 3 (Third Change to Code)
 
-![Image](Screen Shot 2022-05-02 at 9.44.27 PM.png)
+![Image](Fillers/Screen Shot 2022-05-02 at 9.44.27 PM.png)
 
 Which outputs:
 
-![Image](Screen Shot 2022-04-24 at 9.48.52 PM.png)
+![Image](Fillers/Screen Shot 2022-04-24 at 9.48.52 PM.png)
 
 The link is improperly formatted, so to edit the link
 you should go and change the file to the proper format, and we
