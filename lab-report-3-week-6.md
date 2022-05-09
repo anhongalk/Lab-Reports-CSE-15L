@@ -12,3 +12,12 @@ using text editor, to ensure that it worked.
 
 My login was using this config file using the command ssh ieng6.
 
+##Git and Key generator
+
+![Image](Screen Shot 2022-05-08 at 11.35.18 PM.png)
+
+Public and private key are both located in the .ssh file.
+
+![Image](Screen Shot 2022-05-08 at 11.40.52 PM.png)
+
+Here is where my key is stored in Github.
