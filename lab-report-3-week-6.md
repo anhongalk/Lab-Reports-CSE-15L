@@ -29,3 +29,10 @@ Comment has been added to the file!
 https://github.com/anhongalk/Lab-Report-2/blob/main/MarkdownParse.java
 
 The link to the file that has a commit pushed with a comment "new stuff!"
+
+
+## Copying an entire directory
+
+
+
+![Image](Screen Shot 2022-05-08 at 11.55.54 PM.png)
