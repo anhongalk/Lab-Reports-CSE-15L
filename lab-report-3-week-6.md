@@ -44,9 +44,16 @@ https://github.com/anhongalk/Lab-Report-2/commits/main/MarkdownParse.java
 
 The link to the file that has a commit pushed with a comment "new stuff!"
 
-
 ## Copying an entire directory
 
-
-
 ![Image](Screen Shot 2022-05-08 at 11.55.54 PM.png)
+
+After we copy this directory to the remote server, we can choose to
+run a test file in markdown-parse like so:
+
+![Image](Screen Shot 2022-05-16 at 11.45.49 PM.png)
+
+By combining two seperate commands we can both copy the relevant part of the 
+directory and then run a test case:
+
+![Image](Screen Shot 2022-05-16 at 11.53.42 PM.png)
