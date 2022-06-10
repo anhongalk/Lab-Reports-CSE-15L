@@ -20,7 +20,7 @@ This is the result from vimdiff:
 ![Image](Screen Shot 2022-06-09 at 7.23.11 PM.png)
 
 The correct output [] is on the left, which is the provided one.
-My output(right) is incorrect since it adds the link to the return.
+My output(right) is incorrect since it adds everything in the parenthesis to the return.
 
 ![Image](Screen Shot 2022-06-09 at 7.41.58 PM.png)
 
@@ -39,7 +39,7 @@ This is the result from vimdiff:
 ![Image](Screen Shot 2022-06-09 at 7.21.18 PM.png)
 
 The provided implementation correctly returns [].
-My implementation(right) returns everything in the brackets, which is incorrect.
+My implementation(right) returns everything in the parenthesis, which is incorrect.
 
 ![Image](Screen Shot 2022-06-09 at 7.48.23 PM.png)
 
