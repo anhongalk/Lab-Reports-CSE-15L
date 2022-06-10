@@ -43,8 +43,8 @@ My implementation(right) returns everything in the brackets, which is incorrect.
 
 ![Image](Screen Shot 2022-06-09 at 7.48.23 PM.png)
 
-I think the issue is that my implementation adds everything in the parenthesis.
-if it satisfies the first requirement, which is checking if [] is valid. The way to solve this
+I think the issue is that my implementation adds everything in the parenthesis, by first
+checking if it satisfies the first requirement(if letters in [] is valid). The way to solve this
 is to change adding everything in the open parenthesis, and checking if the there is quotation marks ""
 by iteratively going through each letter in the parenthesis brackets. If there is, break and end the while loop that will
 iteratively check each letter.
