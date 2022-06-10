@@ -1,16 +1,16 @@
-#Lab Report 5
+# Lab Report 5
 
 
 The tests with different results were found by using vimdiff. 
 The results were derived from a bash for loop.
 
 
-##Tests
+## Tests
 [487](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/487.md) and
 [578](https://github.com/anhongalk/markdown-parser-1/blob/main/test-files/578.md)
 
 
-####Test 487
+#### Test 487
 
 The expected output for 487 is [] determined from the VScode preview:
 ![Image](Screen Shot 2022-06-09 at 7.23.18 PM.png)
@@ -29,7 +29,7 @@ There's not a link that begins with /, so I would add an if statement to check i
 If there is, then don't return.
 
 
-####Test 578 
+#### Test 578 
 
 The expected output for 578 is [] determined from the VScode preview:
 ![Image](Screen Shot 2022-06-09 at 7.21.25 PM.png)
