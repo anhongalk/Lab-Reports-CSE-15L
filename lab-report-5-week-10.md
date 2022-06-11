@@ -32,7 +32,7 @@ If there is, then don't return.
 
 #### Test 41
 
-The expected output for 578 is [] determined from the VScode preview:
+The expected output for 41 is [] determined from the VScode preview:
 ![Image](41 preview.png)
 
 This is the result from vimdiff:
